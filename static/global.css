@@ -160,7 +160,6 @@ kbd {
 
 /* Highlights */
 mark {
-  padding: 0.15rem;
   background-color: var(--tertiary-color);
 }
 
